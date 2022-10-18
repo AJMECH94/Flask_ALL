@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FastApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlaskCelery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlaskCelery/flask-celery-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlaskClassViews/flask-class-based-views" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flask_Blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Movieapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flask" vcs="Git" />
+  </component>
+</project>
